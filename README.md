@@ -1,0 +1,2 @@
+# Clopdominios
+Dominios Termux 
